@@ -235,7 +235,7 @@ figure {
   background: #fff url(../images/loader.gif) no-repeat center center;
   width: 100%;
   float: left;
-  margin-bottom: 10em;
+  margin-bottom: 5em;
   clear: both; }
   #colorlib-hero .flexslider {
     border: none;
@@ -285,7 +285,7 @@ figure {
         display: table-cell;
         vertical-align: middle;
         min-height: 700px;
-        padding: 2.5em;
+        padding: 1em;
         position: relative; }
         @media screen and (max-width: 768px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner {
@@ -363,7 +363,7 @@ body.offcanvas {
     transform: translateX(300px); }
 
 .colorlib-narrow-content {
-  padding: 0 2.5em; }
+  padding: 0 1em; }
   @media screen and (max-width: 768px) {
     .colorlib-narrow-content {
       padding: 0; } }
@@ -380,8 +380,8 @@ body.offcanvas {
 .colorlib-about,
 .colorlib-services,
 .colorlib-contact {
-  padding-top: 4em;
-  padding-bottom: 9em;
+  padding-top: 2em;
+  padding-bottom: 1em;
   clear: both;
   width: 100%;
   display: block; }
@@ -394,8 +394,8 @@ body.offcanvas {
     .colorlib-about,
     .colorlib-services,
     .colorlib-contact {
-      padding-top: 5em;
-      padding-bottom: 8em; } }
+      padding-top: 2em;
+      padding-bottom: 1em; } }
 
 .author-img {
   background-size: cover;
@@ -1408,7 +1408,7 @@ body.offcanvas {
       padding-bottom: 1em; } }
 
 .row-bottom-padded-md {
-  padding-bottom: 3em; }
+  padding-bottom: 1em; }
   @media screen and (max-width: 768px) {
     .row-bottom-padded-md {
       padding-bottom: 1em; } }
