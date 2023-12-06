@@ -13,7 +13,7 @@
   position: relative;
   width: 100%;
   max-width: 1200px;
-  margin: 25px auto;
+  margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box;}
 
@@ -905,7 +905,8 @@ img {
 
 .sub-page {
   padding: 40px 0;
-  border-top: 4px solid #333; }
+  border-top: 4px solid #333;
+  margin: 0 auto;}
 
 .button-text {
   font-size: 12px;
