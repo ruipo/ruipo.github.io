@@ -1854,3 +1854,135 @@ Responsive
         transition: .5s all; }
   .languages {
     padding-left: 220px; } }
+
+/*--------------------------------------------------
+Stats bar
+---------------------------------------------------*/
+body{ font-family: arial; }
+
+.stats {
+width: 100%;
+height: 200px;
+float: left;
+background: black
+}
+
+.stats-overlay{
+width: 100%;
+height: 200px;
+float: left;
+background: #bf5471;
+}
+
+.statsbar {
+width: 100%;
+height: 100px;
+margin-top:30px;
+}
+
+.stat-one {
+width: 25%;
+height: 100px;
+float:left;
+}
+
+.stat-two {
+width: 25%;
+height: 100px;
+float:left;
+}
+
+.stat-three {
+width: 25%;
+height: 100px;
+float:left;
+}
+
+.stat-four {
+width: 25%;
+height: 100px;
+float:left;
+}
+
+.stat-number {
+width: 100%;
+  padding-bottom: 40px;
+height: 50px;
+float:left;
+text-align:center;
+color:#FFF;
+font-size: 60px;
+font-weight: 100;
+text-transform: uppercase;
+color:#FFF;
+}
+
+.stat-title {
+font-size: 40px;
+width: 100%;
+height: 50px;
+float:left;
+text-align:center;
+color:#FFF;
+font-weight: 100;
+text-transform: uppercase;
+color:#FFF;
+}
+    background-image: url(../images/25H.jpg);
+    background-attachment: fixed;
+}
+.personality-overlay {
+    width: 100%;
+    height: 200px;
+    float: left;
+    background: rgb(0, 200, 200);
+    background: rgba(52, 119, 206, 0.7);
+    background-attachment: fixed;
+}
+.statsbar {
+    width: 100%;
+    height: 100px;
+    margin-top:30px;
+}
+.stat-one {
+    width: 25%;
+    height: 100px;
+    float:left;
+}
+.stat-two {
+    width: 25%;
+    height: 100px;
+    float:left;
+}
+.stat-three {
+    width: 25%;
+    height: 100px;
+    float:left;
+}
+.stat-four {
+    width: 25%;
+    height: 100px;
+    float:left;
+}
+.stat-number {
+    width: 100%;
+    height: 50px;
+    float:left;
+    text-align:center;
+    color:#FFF;
+    font-size: 50px;
+    font-weight: 100;
+    text-transform: uppercase;
+    color:#FFF;
+}
+.stat-title {
+    width: 100%;
+    height: 50px;
+    float:left;
+    text-align:center;
+    color:#FFF;
+    font-size: 12px;
+    font-weight: 100;
+    text-transform: uppercase;
+    color:#FFF;
+}
