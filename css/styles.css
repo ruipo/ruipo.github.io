@@ -1862,16 +1862,16 @@ body{ font-family: arial; }
 
 .stats {
 width: 100%;
-height: 150px;
+height: 180px;
 float: left;
 background: black
 }
 
 .stats-overlay{
 width: 100%;
-height: 150px;
+height: 180px;
 float: left;
-background: #bf5471;
+background: #ffffff;
 }
 
 .statsbar {
@@ -1906,15 +1906,15 @@ float:left;
 
 .stat-number {
 width: 100%;
-  padding-bottom: 20px;
+  padding-bottom: 25px;
 height: 50px;
 float:left;
 text-align:center;
-color:#FFF;
+color:#050505;
 font-size: 30px;
 font-weight: 100;
 text-transform: uppercase;
-color:#FFF;
+color:#050505;
 }
 
 .stat-title {
@@ -1923,17 +1923,17 @@ width: 100%;
 height: 50px;
 float:left;
 text-align:center;
-color:#FFF;
+color:#050505;
 font-weight: 100;
 text-transform: uppercase;
-color:#FFF;
+color:#050505;
 }
     background-image: url(../images/25H.jpg);
     background-attachment: fixed;
 }
 .personality-overlay {
     width: 100%;
-    height: 150px;
+    height: 180px;
     float: left;
     background: rgb(0, 200, 200);
     background: rgba(52, 119, 206, 0.7);
@@ -1969,20 +1969,20 @@ color:#FFF;
     height: 50px;
     float:left;
     text-align:center;
-    color:#FFF;
+    color:#050505;
     font-size: 30px;
     font-weight: 100;
     text-transform: uppercase;
-    color:#FFF;
+    color:#050505;
 }
 .stat-title {
     width: 100%;
     height: 50px;
     float:left;
     text-align:center;
-    color:#FFF;
+    color:#050505;
     font-size: 12px;
     font-weight: 100;
     text-transform: uppercase;
-    color:#FFF;
+    color:#050505;
 }
